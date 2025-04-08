@@ -2,7 +2,7 @@
 
 > Analyze educational videos and documents to extract key concepts, generate summaries, and create interactive learning materials.
 
-![Educational Content Analysis](/recipes/content-analysis/img.png)
+![Educational Content Analysis](/content-analysis/img.png)
 
 ## 🎯 Use Case
 

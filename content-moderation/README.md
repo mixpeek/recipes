@@ -2,7 +2,7 @@
 
 > Automatically moderate user-generated content for entertainment platforms using multimodal analysis.
 
-![Content Moderation](/recipes/content-moderation/img.png)
+![Content Moderation](/content-moderation/img.png)
 
 ## 🎯 Use Case
 

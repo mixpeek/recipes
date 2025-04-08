@@ -2,7 +2,7 @@
 
 > Enable visual search for ecommerce products using computer vision and similarity matching.
 
-![Visual Product Search](/recipes/product-visual-search/img.png)
+![Visual Product Search](/product-visual-search/img.png)
 
 ## 🎯 Use Case
 

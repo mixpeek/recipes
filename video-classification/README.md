@@ -2,7 +2,7 @@
 
 > Automatically classify video ads using IAB taxonomy and extract key moments for better targeting and performance analysis.
 
-![Video Ad Classification](/recipes/video-classification/img.png)
+![Video Ad Classification](/video-classification/img.png)
 
 ## 🎯 Use Case
 
