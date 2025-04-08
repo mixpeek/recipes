@@ -2,8 +2,6 @@
 
 > Automatically classify video ads using IAB taxonomy and extract key moments for better targeting and performance analysis.
 
-![Video Ad Classification](/video-classification/img.png)
-
 ## 🎯 Use Case
 
 The video advertising industry requires sophisticated tools to classify content, identify key moments, and analyze performance. This recipe demonstrates how to use Mixpeek to:

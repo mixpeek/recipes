@@ -2,8 +2,6 @@
 
 > Automatically moderate user-generated content for entertainment platforms using multimodal analysis.
 
-![Content Moderation](/content-moderation/img.png)
-
 ## 🎯 Use Case
 
 Entertainment platforms face the challenge of moderating large volumes of user-generated content to ensure safety and compliance. This recipe demonstrates how to use Mixpeek to:

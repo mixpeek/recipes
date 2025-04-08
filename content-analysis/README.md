@@ -2,8 +2,6 @@
 
 > Analyze educational videos and documents to extract key concepts, generate summaries, and create interactive learning materials.
 
-![Educational Content Analysis](/content-analysis/img.png)
-
 ## 🎯 Use Case
 
 Educational institutions and EdTech companies need to process vast amounts of learning materials to make them more accessible and engaging. This recipe demonstrates how to use Mixpeek to:

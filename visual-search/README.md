@@ -2,8 +2,6 @@
 
 > Enable visual search for ecommerce products using computer vision and similarity matching.
 
-![Visual Product Search](/product-visual-search/img.png)
-
 ## 🎯 Use Case
 
 In today's competitive ecommerce landscape, providing intuitive ways for customers to discover products is essential. This recipe demonstrates how to use Mixpeek to:
